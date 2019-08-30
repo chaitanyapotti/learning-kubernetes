@@ -1,0 +1,4 @@
+Need to add a secret at the end
+```
+k create secret generic <secret_name> --from-literal key=value
+```
